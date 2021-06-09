@@ -23,9 +23,9 @@ import json
 
 # ------------ HYPERPARAMETERS -------------
 BASE_PATH = '../COVID-19/csse_covid_19_data/'
-N_NEIGHBORS = 5
+N_NEIGHBORS = 50
 MIN_CASES = 100000
-N_BINS = 15
+N_BINS = 20
 NORMALIZE = True
 # ------------------------------------------
 
